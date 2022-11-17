@@ -1,0 +1,15 @@
+﻿global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using ProductApi.DAL;
+global using Microsoft.AspNetCore.Mvc;
+global using ProductApi.Models;
+global using System.Diagnostics;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using ProductApi.Models.Enums;
+global using System.Text.Json;
+global using Newtonsoft.Json;
+global using ProductApi.DAL.Interfaces;
+global using ProductApi.Services.ServiceInterfaces;
+global using ProductApi.Services;
+global using System.Security.Claims;
+global using System.Net.Mail;
